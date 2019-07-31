@@ -1,0 +1,432 @@
+{
+  "alois": {
+    "gifts": [
+      "ancient coin",
+      "floral adornment",
+      "fishing float",
+      "sunflower"
+    ],
+    "lost": [
+      "foreign old coin",
+      "introduction to magic",
+      "mysterious notebook"
+    ]
+  },
+  "annette": {
+    "gifts": [
+      "arithmetic textbook",
+      "book of sheet music",
+      "stylish hair clip"
+    ],
+    "lost": [
+      "school of sorcery book",
+      "unfinished score",
+      "wax diptych"
+    ]
+  },
+  "ashe": {
+    "gifts": [
+      "ancient coin",
+      "exotic spices",
+      "legend of chivalry",
+      "tasty baked treat",
+      "violet"
+    ],
+    "lost": [
+      "bundle of herbs",
+      "evil-repelling amulet",
+      "moon knight's tail"
+    ]
+  },
+  "bernadetta": {
+    "gifts": [
+      "armored bear stuffy",
+      "book of sheet music",
+      "dapper handkerchief",
+      "landscape painting",
+      "watering can",
+      "pitcher plant"
+    ],
+    "lost": [
+      "hedgehog case",
+      "needle and thread",
+      "still-life picture"
+    ]
+  },
+  "caspar": {
+    "gifts": [
+      "smoked meat",
+      "training weight",
+      "whetstone"
+    ],
+    "lost": [
+      "grounding charm",
+      "tattered overcoat",
+      "thunderbrand replica"
+    ]
+  },
+  "catherine": {
+    "gifts": [
+      "blue cheese",
+      "legend of chivalry",
+      "training weight",
+      "whetstone"
+    ],
+    "lost": [
+      "badge of graduation",
+      "letter to rhea",
+      "weathered cloak"
+    ]
+  },
+  "claude": {
+    "gifts": [
+      "board game",
+      "exotic spices",
+      "riding boots"
+    ],
+    "lost": [
+      "board game piece",
+      "leather bow sheath",
+      "mild stomach poison"
+    ]
+  },
+  "cyril": {
+    "gifts": [
+      "hunting dagger",
+      "smoked meat",
+      "watering can",
+      "baby's breath"
+    ],
+    "lost": [
+      "old cleaning cloth",
+      "portrait of rhea",
+      "well-used hatchet"
+    ]
+  },
+  "dedue": {
+    "gifts": [
+      "exotic spices",
+      "floral adornment",
+      "watering can"
+    ],
+    "lost": [
+      "gardening shears",
+      "gold earring",
+      "iron cooking pot"
+    ]
+  },
+  "dimitri": {
+    "gifts": [
+      "ceremonial sword",
+      "riding boots",
+      "training weight",
+      "whetstone"
+    ],
+    "lost": [
+      "black leather gloves",
+      "dulled longsword",
+      "training logbook"
+    ]
+  },
+  "dorothea": {
+    "gifts": [
+      "book of sheet music",
+      "gemstone beads",
+      "stylish hair clip"
+    ],
+    "lost": [
+      "lovely comb",
+      "silver brooch",
+      "songstress poster"
+    ]
+  },
+  "edelgard": {
+    "gifts": [
+      "armored bear stuffy",
+      "board game",
+      "monarch studies book",
+      "carnation"
+    ],
+    "lost": [
+      "time-worn quill pen",
+      "white gloves",
+      "eastern porcelain"
+    ]
+  },
+  "felix": {
+    "gifts": [
+      "ceremonial sword",
+      "hunting dagger",
+      "smoked meat",
+      "training weight"
+    ],
+    "lost": [
+      "black iron spur",
+      "sword belt fragment",
+      "toothed dagger"
+    ]
+  },
+  "ferdinand": {
+    "gifts": [
+      "riding boots",
+      "tea leaves",
+      "whetstone"
+    ],
+    "lost": [
+      "agricultural survey",
+      "bag of tea leaves",
+      "maintenance oil"
+    ]
+  },
+  "flayn": {
+    "gifts": [
+      "armored bear stuffy",
+      "dapper handkerchief",
+      "the history of fodlan"
+    ],
+    "lost": [
+      "antique clasp",
+      "dusty book of fables",
+      "old map of enbarr"
+    ]
+  },
+  "gilbert": {
+    "gifts": [
+      "ceremonial sword",
+      "fishing float",
+      "goddess statuette"
+    ],
+    "lost": [
+      "carving hammer",
+      "noseless puppet",
+      "silver necklace"
+    ]
+  },
+  "hanneman": {
+    "gifts": [
+      "arithmetic textbook",
+      "book of crests designs",
+      "dapper handkerchief",
+      "tea leaves"
+    ],
+    "lost": [
+      "hammer and chisel",
+      "lens cloth",
+      "sketch of a sigil"
+    ]
+  },
+  "hilda": {
+    "gifts": [
+      "armored bear stuffy",
+      "book of sheet music",
+      "dapper handkerchief",
+      "gemstone beads",
+      "stylish hair clip",
+      "anemone"
+    ],
+    "lost": [
+      "handmade hair clip",
+      "spotless bandage",
+      "used bottle of perfume"
+    ]
+  },
+  "hubert": {
+    "gifts": [
+      "board game",
+      "coffee beans",
+      "the history of fodlan"
+    ],
+    "lost": [
+      "folding razor",
+      "noxious handkerchief",
+      "hresvelg treatise"
+    ]
+  },
+  "ignatz": {
+    "gifts": [
+      "ancient coin",
+      "ceremonial sword",
+      "goddess statuette",
+      "landscape painting",
+      "forget-me-nots"
+    ],
+    "lost": [
+      "art book",
+      "blue stone",
+      "letter to the goddess"
+    ]
+  },
+  "ingrid": {
+    "gifts": [
+      "legend of chivalry",
+      "riding boots",
+      "smoked meat"
+    ],
+    "lost": [
+      "curry comb",
+      "jousting almanac",
+      "pegasus horseshoes"
+    ]
+  },
+  "leonie": {
+    "gifts": [
+      "fishing float",
+      "hunting dagger",
+      "training weight"
+    ],
+    "items": [
+      "crude arrowheads",
+      "fur scarf",
+      "hand drawn map"
+    ]
+  },
+  "linhardt": {
+    "gifts": [
+      "book of crest designs",
+      "fishing float",
+      "tasty baked treat"
+    ],
+    "lost": [
+      "the saints revealed",
+      "feather pillow",
+      "animated bait"
+    ]
+  },
+  "lorenz": {
+    "gifts": [
+      "book of sheet music",
+      "floral adornment",
+      "tea leaves",
+      "rose"
+    ],
+    "lost": [
+      "silk handkerchief",
+      "a treatise on etiquette",
+      "artificial flower"
+    ]
+  },
+  "lysithea": {
+    "gifts": [
+      "arithmetic textbook",
+      "armored bear stuffy",
+      "book of crest designs",
+      "tasty baked treat",
+      "lily"
+    ],
+    "lost": [
+      "new bottle of perfume",
+      "princess doll",
+      "encyclopedia of sweets"
+    ]
+  },
+  "manuela": {
+    "gifts": [
+      "blue cheese",
+      "book of sheet music",
+      "gemstone beads",
+      "goddess statuette"
+    ],
+    "lost": [
+      "light purple veil",
+      "wellness herbs",
+      "clean dusting cloth"
+    ]
+  },
+  "marianne": {
+    "gifts": [
+      "armored bear stuffy",
+      "dapper handkerchief",
+      "floral adornment",
+      "lily of the valley"
+    ],
+    "lost": [
+      "bag of seeds",
+      "confessional letter",
+      "how to be tidy"
+    ]
+  },
+  "mercedes": {
+    "gifts": [
+      "armored bear stuffy",
+      "gemstone beads",
+      "goddess statuette",
+      "tasty baked treat",
+      "lavender"
+    ],
+    "lost": [
+      "book of ghost stories",
+      "fruit preserves",
+      "how to bake sweets"
+    ]
+  },
+  "petra": {
+    "gifts": [
+      "exotic spices",
+      "hunting dagger",
+      "smoked meat",
+      "sunflower"
+    ],
+    "lost": [
+      "annotated dictionary",
+      "exotic feather",
+      "small tanned hide"
+    ]
+  },
+  "raphael": {
+    "gifts": [
+      "smoked meat",
+      "tasty baked treat",
+      "training weight"
+    ],
+    "lost": [
+      "big spoon",
+      "burlap sack of rocks",
+      "wooden button"
+    ]
+  },
+  "rhea": {
+    "gifts": [
+      "goddess statuette",
+      "landscape painting"
+    ],
+    "lost": []
+  },
+  "seteth": {
+    "gifts": [
+      "fishing float",
+      "dapper handkerchief",
+      "the history of fodlan"
+    ],
+    "lost": [
+      "old fishing rod",
+      "snapped writing quill",
+      "unfinished fable"
+    ]
+  },
+  "shamir": {
+    "gifts": [
+      "book of sheet music",
+      "coffee beans",
+      "exotic spices",
+      "hunting dagger",
+      "sunflower"
+    ],
+    "lost": [
+      "animal bone dice",
+      "bundle of dry hemp",
+      "centipede picture"
+    ]
+  },
+  "sylvain": {
+    "gifts": [
+      "board game",
+      "dapper handkerchief",
+      "landscape painting"
+    ],
+    "lost": [
+      "crumpled love letter",
+      "the history of sreng",
+      "unused lipstick"
+    ]
+  }
+}
